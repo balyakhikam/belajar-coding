@@ -1,0 +1,29 @@
+.navbar {
+    background-color:rgb(2, 2, 143);
+}
+
+.jumbotron {
+    background-color: rgb(255, 255, 255);
+    padding-top: 3rem
+    
+}
+
+.about {
+    text-align: center;
+    padding: 50px;
+}
+
+.projects {
+    text-align: center;
+    padding: 50px;
+}
+
+.contact {
+    text-align: center;
+    padding: 5px;
+
+}
+
+section {
+    padding-top: 5rem;
+}
